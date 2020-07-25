@@ -7,13 +7,13 @@
 
 ## About me
 
-I am Aditya Kumar, a Devops Engineer. Code Blooded.
+I am Aditya Kumar, a Devops Engineer. Code Blooded. \n
 Daily Routine :
-``for {
+```for {
     go Code()
     go Eat()
     go Sleep()
-}``
+}```
 
 ## Things I am passionate about
 
