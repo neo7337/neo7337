@@ -1,5 +1,28 @@
 ### Hi there 👋
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/neo7337/count.svg" />
+</p>
+
+## About me
+
+I am Aditya Kumar, a Devops Engineer. Code Blooded.
+Daily Routine :
+``for {
+    go Code()
+    go Eat()
+    go Sleep()
+}``
+
+## Things I am passionate about
+
+- Golang
+- Open source :octocat:
+- Cloud Technologies :cloud:
+- AWS, GCP
+- Linux
+
 <!--
 **neo7337/neo7337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
