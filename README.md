@@ -5,6 +5,8 @@
   <img src="https://profile-counter.glitch.me/neo7337/count.svg" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo7337)](https://github.com/anuraghazra/github-readme-stats)
+
 ## About me
 
 I am Aditya Kumar, a Devops Engineer. Code Blooded. \n
@@ -12,9 +14,9 @@ I am Aditya Kumar, a Devops Engineer. Code Blooded. \n
 Daily Routine :
 
 `for {
-    go Code()
-    go Eat()
-    go Sleep()
+    Code()
+    Eat()
+    Sleep()
 }`
 
 ## Things I am passionate about
