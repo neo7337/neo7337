@@ -5,17 +5,20 @@
   <img src="https://profile-counter.glitch.me/neo7337/count.svg" />
 </p>
 
+![Neo's github stats](https://github-readme-stats.vercel.app/api?username=neo7337&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo7337&hide=html,css,php)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
 
-I am Aditya Kumar, a Devops Engineer. Code Blooded. \n
+I am Devops Engineer. Code Blooded. \n
 
 Daily Routine :
 
 `for {
     Code()
     Eat()
+    Code()
     Sleep()
 }`
 
