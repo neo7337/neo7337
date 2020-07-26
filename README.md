@@ -10,7 +10,7 @@
 
 ## About me
 
-I am Devops Engineer. Code Blooded. \n
+I am Devops Engineer. Code Blooded.
 
 Daily Routine :
 
