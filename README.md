@@ -1,12 +1,8 @@
-### Hi there 👋
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/neo7337/count.svg" />
+<p align="center">
+  <a href="https://github.com/puf17640" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=neo7337&title_color=333&text_color=777" alt="Aditya's Stats" >
+  </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo7337&theme=radical&hide=html,css,php)](https://github.com/anuraghazra/github-readme-stats)
-![Neo's github stats](https://github-readme-stats.vercel.app/api?username=neo7337&show_icons=true&theme=radical)
 
 ## About me
 
