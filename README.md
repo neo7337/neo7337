@@ -8,11 +8,11 @@
 
 Devops Engineer.\
 Daily Routine :\
-`for {
-    Code()
-    Eat()
-    Code()
-    Sleep()
+`for {\
+    Code()\
+    Eat()\
+    Code()\
+    Sleep()\
 }`
 
 ## Tech I can talk about
