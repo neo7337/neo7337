@@ -15,7 +15,7 @@ Daily Routine :\
     Sleep()
 }`
 
-## Tech I can talk about
+## Tech to talk about
 
 - Golang
 - Open source :octocat:
