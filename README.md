@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/neo7337" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=neo7337&title_color=333&text_color=777" alt="Aditya's Stats" >
-  </a>
-</p>
-
 ## About me
 
 Devops Engineer.\
