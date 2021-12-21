@@ -1,6 +1,6 @@
 ## About me
 
-Devops Engineer.\
+Backend Developer + DevOps Engineer.\
 Daily Routine :\
 `for {
     Code()
@@ -9,7 +9,7 @@ Daily Routine :\
     Sleep()
 }`
 
-## Tech to talk about
+## Interests
 
 - Golang
 - Open source :octocat:
