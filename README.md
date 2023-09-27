@@ -1,6 +1,8 @@
 ## About me
 
-Backend Developer + DevOps Engineer.\
+[![An image of @neo7337's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neo7337)](https://holopin.io/@neo7337)
+
+Full Stack Developer.\
 Daily Routine :\
 `for {
     Code()
